@@ -1,2 +1,2 @@
 # IKDUhomework
-Programmin course homework
+Programming course homework
